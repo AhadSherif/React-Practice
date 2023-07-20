@@ -1,0 +1,14 @@
+.cardcon{
+    width: 400px;
+    height: 150px;
+    border: 2px solid red;
+    border-radius: 20px;
+}
+.cardtitle{
+    font-size: 32px;
+
+}
+.cardcontent{
+    font-size: 20px;
+
+}
